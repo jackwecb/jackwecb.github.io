@@ -1,0 +1,1 @@
+import{a as o}from"./index-DPxa-aA0.js";import{y as t,z as s,C as a}from"./vendor_vue-CGdLUYd4.js";import"./vendor-4PfDvgYr.js";const r={},n={class:"about"};function c(i,e){return a(),t("div",n,e[0]||(e[0]=[s("h1",null,"This is an about page",-1)]))}const m=o(r,[["render",c]]);export{m as default};
